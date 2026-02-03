@@ -50,6 +50,15 @@
 
 <br>
 
+<div align="center">
+  <h3>🟡 Pac-Man Mode: Chomping Code Like Dots! 👻</h3>
+  <img src="https://raw.githubusercontent.com/nshew13/svg-pacman/master/pacman.svg" alt="Pac-Man Animation" width="500"/>
+  <br>
+  <sub>Endless loop: Eating bugs & features one commit at a time... 🍒🍒🍒</sub>
+</div>
+
+<br>
+
 ---
 
 <div align="center">
@@ -61,11 +70,11 @@
   ### Let's Connect
   <br>
 
-  <a href="https://t.me/jigs666">
+  <a href="https://t.me/sawculos">
     <img src="https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.gg/jigg666">
+  <a href="https://discord.gg/your-invite-code-here">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 
