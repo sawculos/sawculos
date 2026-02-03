@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sawculos&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy-soulteary.vercel.app/?username=sawculos&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
 </div>
 
 <br>
@@ -36,7 +36,7 @@
 <div align="center">
   <img src="https://github-readme-stats-seven-mu-19.vercel.app/api?username=sawculos&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b26" width="48%" alt="Stats" />
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=sawculos&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=7aa2f7&fire=bb9af7&currStreakNum=9ece6a&sideNums=9ece6a" width="48%" alt="Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sawculos&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=7aa2f7&fire=bb9af7&currStreakNum=9ece6a&sideNums=9ece6a" width="48%" alt="Streak" />
 </div>
 
 <br>
