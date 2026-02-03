@@ -34,15 +34,15 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sawculos&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b26" width="48%" alt="Stats" />
+  <img src="https://github-readme-stats-seven-mu-19.vercel.app/api?username=sawculos&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b26" width="48%" alt="Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sawculos&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=7aa2f7&fire=bb9af7&currStreakNum=9ece6a&sideNums=9ece6a" width="48%" alt="Streak" />
+  <img src="https://github-readme-stats-seven-mu-19.vercel.app/?user=sawculos&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=7aa2f7&fire=bb9af7&currStreakNum=9ece6a&sideNums=9ece6a" width="48%" alt="Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawculos&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&langs_count=8" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats-seven-mu-19.vercel.app/api/top-langs/?username=sawculos&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&langs_count=8" alt="Top Languages" width="60%" />
 </div>
 
 <br>
