@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=2000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Sawculos;Full-Stack+Developer+%26+Problem+Solver;Crafting+Scalable+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=36&pause=2000&color=7C3AED&center=true&vCenter=true&width=950&lines=Hello%2C+I'm+saw;Full-Stack+Developer+%26+Problem+Solver;Crafting+Scalable+Digital+Experiences" alt="Typing SVG" />
 </div>
 
 <br>
@@ -61,11 +61,11 @@
   ### Let's Connect
   <br>
 
-  <a href="https://t.me/sawculos">
+  <a href="https://t.me/jigs666">
     <img src="https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.gg/your-invite-code-here">
+  <a href="https://discord.gg/jigg666">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 
@@ -80,5 +80,5 @@
 <br>
 
 <div align="center">
-  <sub>✦ Crafted with precision & passion ✦</sub>
+  <sub>✦ Crafted with precision & passion by saw ✦</sub>
 </div>
