@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Sawculos;Full-Stack+Developer+%26+Problem+Solver;Crafting+Scalable+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=2000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Sawculos;Full-Stack+Developer+%26+Problem+Solver;Crafting+Scalable+Digital+Experiences" alt="Typing SVG" />
 </div>
 
 <br>
@@ -20,8 +20,8 @@
   </picture>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sawculos&theme=transparent&hide_border=true&border_radius=10&ring=7C3AED&fire=7C3AED&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=7C3AED&sideLabels=7C3AED&stroke=00000000&background=00000000">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=sawculos&theme=default&hide_border=true&border_radius=10&ring=6E48AA&fire=6E48AA&dates=444444&currStreakNum=444444&sideNums=444444&currStreakLabel=6E48AA&sideLabels=6E48AA&stroke=00000000&background=ffffff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=sawculos&theme=transparent&hide_border=true&border_radius=10&ring=7C3AED&fire=7C3AED&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=7C3AED&sideLabels=7C3AED&stroke=00000000&background=00000000">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats-eight.vercel.app?user=sawculos&theme=default&hide_border=true&border_radius=10&ring=6E48AA&fire=6E48AA&dates=444444&currStreakNum=444444&sideNums=444444&currStreakLabel=6E48AA&sideLabels=6E48AA&stroke=00000000&background=ffffff">
   </picture>
 </div>
 
