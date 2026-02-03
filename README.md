@@ -51,12 +51,13 @@
 <br>
 
 <div align="center">
-  <h3>🟡 Pac-Man Mode: Chomping Code Like Dots! 👻</h3>
+  <h3>🟡 Pac-Man Eats My Contributions! 👻</h3>
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sawculos/sawculos/output/pacman-contribution-graph-dark.svg">
-  <img src="https://raw.githubusercontent.com/sawculos/sawculos/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="800"/>
-</picture>
-  <sub>Endless loop: Eating bugs & features one commit at a time... 🍒🍒🍒</sub>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sawculos/sawculos/output/pacman-contribution-graph-dark.svg">
+    <img src="https://raw.githubusercontent.com/sawculos/sawculos/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="800"/>
+  </picture>
+  <br>
+  <sub>My commits are the dots... watch Pac-Man devour them daily! 🍒 Generated via GitHub Actions.</sub>
 </div>
 
 <br>
