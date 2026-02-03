@@ -57,7 +57,7 @@
     <img src="https://raw.githubusercontent.com/sawculos/sawculos/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="800"/>
   </picture>
   <br>
-  <sub>My commits are the dots... watch Pac-Man devour them daily! 🍒 Generated via GitHub Actions.</sub>
+  <sub>My commits are the dots... watch Pac-Man devour them daily! 🍒.</sub>
 </div>
 
 <br>
@@ -73,11 +73,11 @@
   ### Let's Connect
   <br>
 
-  <a href="https://t.me/sawculos">
+  <a href="https://t.me/jigs666">
     <img src="https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.gg/your-invite-code-here">
+  <a href="https://discord.gg/jigg666">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 
