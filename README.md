@@ -52,8 +52,10 @@
 
 <div align="center">
   <h3>🟡 Pac-Man Mode: Chomping Code Like Dots! 👻</h3>
-  <img src="https://raw.githubusercontent.com/nshew13/svg-pacman/master/pacman.svg" alt="Pac-Man Animation" width="500"/>
-  <br>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sawculos/sawculos/output/pacman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/sawculos/sawculos/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="800"/>
+</picture>
   <sub>Endless loop: Eating bugs & features one commit at a time... 🍒🍒🍒</sub>
 </div>
 
