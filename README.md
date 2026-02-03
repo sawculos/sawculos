@@ -21,7 +21,6 @@
 
 <br>
 
-<!-- Snake Animation -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sawculos/sawculos/raw/main/dist/github-snake-dark.svg" />
@@ -68,11 +67,11 @@
 ## 🌐 Connect in the Shadows
 
 <div align="center">
-  <a href="https://t.me/sawculos">
+  <a href="https://t.me/jigs666">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/sawculos">
+  <a href="https://discord.com/users/jigg666">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="35"/>
   </a>
 </div>
