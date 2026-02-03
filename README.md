@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=120&pause=1500&color=7AA2F7&center=true&vCenter=true&width=600&height=180&lines=SAW" 
+    src="https://github-readme-stats-seven-mu-19.vercel.app?font=Orbitron&weight=900&size=120&pause=1500&color=7AA2F7&center=true&vCenter=true&width=600&height=180&lines=SAW" 
     alt="SAW" 
   />
 </div>
@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sawculos&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
+  <img src="https://github-readme-stats-seven-mu-19.vercel.app/?username=sawculos&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
 </div>
 
 <br>
