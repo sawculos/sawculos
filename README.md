@@ -8,16 +8,18 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-seven-mu-19.vercel.app/?username=sawculos&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=sawculos&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/sawculos/count.svg?theme=tokyonight" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sawculos&color=7aa2f7&style=for-the-badge&label=Profile+Views" alt="Profile views" />
   <br><br>
   <i>👀 You've entered the dark zone — visitor #<span style="color:#7aa2f7;font-weight:bold">X</span> 🌑</i>
 </div>
+
+<br>
 
 <br>
 
