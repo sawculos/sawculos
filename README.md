@@ -31,7 +31,6 @@ Hi, I'm **saw** — a developer focused on building practical, scalable, and pol
 
 I enjoy working across the stack: from clean interfaces and smooth user flows to backend systems, APIs, databases, automation, and deployment.
 
-```ts
 const saw = {
   role: "Full-Stack Developer",
   focus: ["Web Apps", "Backend APIs", "Automation", "Cloud Deployment"],
@@ -39,7 +38,6 @@ const saw = {
   currentlyBuilding: "Scalable digital products",
   motto: "Build useful things. Keep improving."
 };
-```
 
 ---
 
