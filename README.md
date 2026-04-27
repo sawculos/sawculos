@@ -38,8 +38,6 @@ const saw = {
   currentlyBuilding: "Scalable digital products",
   motto: "Build useful things. Keep improving."};
 
----
-
 ## 🚀 Current Focus
 
 - Building modern full-stack applications
@@ -208,7 +206,5 @@ const saw = {
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22C55E,50:06B6D4,100:7C3AED" alt="Footer wave" />
-
-  <sub>✦ Crafted with precision, passion, and continuous improvement by saw ✦</sub>
 
 </div>
