@@ -81,80 +81,47 @@ const saw = {
     <td>Docker, Kubernetes, Linux, Nginx, GitHub Actions</td>
   </tr>
   <tr>
-    <td><strong>Cloud & Tools</strong></td>
-    <td>AWS, Google Cloud, Git, GitHub, VS Code, Figma, Postman</td>
+    <td><strong>Tools</strong></td>
+    <td>Git, GitHub, VS Code, Figma, Postman</td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Analytics
+## 📌 Developer Profile
 
 <div align="center">
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-seven-mu-19.vercel.app/api?username=sawculos&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&ring_color=7C3AED&bg_color=00000000&text_color=C9D1D9&icon_color=06B6D4&title_color=7C3AED"
-    />
-    <img
-      width="49%"
-      alt="GitHub Stats"
-      src="https://github-readme-stats-seven-mu-19.vercel.app/api?username=sawculos&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&ring_color=7C3AED&icon_color=06B6D4&title_color=7C3AED&text_color=111827&bg_color=ffffff"
-    />
-  </picture>
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-streak-stats-eight.vercel.app?user=sawculos&theme=transparent&hide_border=true&border_radius=12&ring=7C3AED&fire=06B6D4&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7C3AED&sideLabels=06B6D4&stroke=00000000&background=00000000"
-    />
-    <img
-      width="49%"
-      alt="GitHub Streak"
-      src="https://github-readme-streak-stats-eight.vercel.app?user=sawculos&theme=default&hide_border=true&border_radius=12&ring=7C3AED&fire=06B6D4&dates=374151&currStreakNum=111827&sideNums=111827&currStreakLabel=7C3AED&sideLabels=06B6D4&stroke=00000000&background=ffffff"
-    />
-  </picture>
-
-</div>
-
-<br />
-
-<div align="center">
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-seven-mu-19.vercel.app/api/top-langs?username=sawculos&layout=compact&theme=transparent&hide_border=true&langs_count=10&bg_color=00000000&text_color=C9D1D9&title_color=7C3AED"
-    />
-    <img
-      width="42%"
-      alt="Top Languages"
-      src="https://github-readme-stats-seven-mu-19.vercel.app/api/top-langs?username=sawculos&layout=compact&theme=default&hide_border=true&langs_count=10&title_color=7C3AED&text_color=111827&bg_color=ffffff"
-    />
-  </picture>
+  <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=111827" alt="React" />
+  <img src="https://img.shields.io/badge/Framework-Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Deploy-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📊 GitHub Overview
 
 <div align="center">
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=sawculos&theme=react-dark&hide_border=true&area=true&point=06B6D4&line=7C3AED&color=C9D1D9&title_color=7C3AED&bg_color=00000000"
-    />
-    <img
-      width="92%"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=sawculos&theme=github-compact&hide_border=true&area=true&point=06B6D4&line=7C3AED&color=111827&title_color=7C3AED&bg_color=ffffff"
-      alt="Contribution Activity Graph"
-    />
-  </picture>
+  <a href="https://github.com/sawculos">
+    <img src="https://img.shields.io/badge/GitHub-sawculos-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+  <a href="https://github.com/sawculos?tab=repositories">
+    <img src="https://img.shields.io/badge/Open%20Source-Projects-7C3AED?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Open Source Projects" />
+  </a>
+  <a href="https://github.com/sawculos?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-Collection-06B6D4?style=for-the-badge&logo=starship&logoColor=white" alt="GitHub Stars" />
+  </a>
 
 </div>
+
+<br />
+
+> Dynamic GitHub statistic cards are intentionally removed to avoid API rate-limit errors and broken images on mobile preview.
 
 ---
 
@@ -187,32 +154,37 @@ const saw = {
 <div align="center">
 
   <a href="https://github.com/sawculos?tab=repositories">
-    <img src="https://github-readme-stats-seven-mu-19.vercel.app/api/pin/?username=sawculos&repo=sawculos&theme=transparent&hide_border=true&title_color=7C3AED&text_color=C9D1D9&icon_color=06B6D4&bg_color=00000000" alt="Featured Repository" />
+    <img src="https://img.shields.io/badge/Explore%20My%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Projects" />
   </a>
 
 </div>
 
-> Replace the featured repository above with your best project repository name when ready.
+<br />
+
+<table>
+  <tr>
+    <td><strong>Web Applications</strong></td>
+    <td>Modern apps with clean UI, responsive layout, and strong user experience.</td>
+  </tr>
+  <tr>
+    <td><strong>Backend Systems</strong></td>
+    <td>APIs, authentication, database design, caching, and automation.</td>
+  </tr>
+  <tr>
+    <td><strong>Deployment</strong></td>
+    <td>Dockerized services, cloud deployment, reverse proxy, and CI/CD workflow.</td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 Highlights
+## 💡 Principles
 
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=sawculos&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 💬 Dev Quote
-
-<div align="center">
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote" />
-
-</div>
+- Keep the interface simple and useful
+- Write code that is readable and maintainable
+- Build systems that are reliable and scalable
+- Optimize for performance, security, and developer experience
+- Keep learning, improving, and shipping
 
 ---
 
