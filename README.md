@@ -36,8 +36,7 @@ const saw = {
   focus: ["Web Apps", "Backend APIs", "Automation", "Cloud Deployment"],
   mindset: ["Clean Code", "Performance", "Security", "User Experience"],
   currentlyBuilding: "Scalable digital products",
-  motto: "Build useful things. Keep improving."
-};
+  motto: "Build useful things. Keep improving."};
 
 ---
 
